@@ -1,0 +1,6 @@
+{
+  "name": "ತುಂಬೆ ವಿದ್ಯಾ ಸಂಸ್ಥೆ - ವಾರ್ಷಿಕ ಕ್ರೀಡಾಕೂಟ 2026-2027",
+  "description": "ತುಂಬೆ ವಿದ್ಯಾ ಸಂಸ್ಥೆಯ ANNUAL SPORTS MEET 2026-2027 ರ ಸ್ವಯಂಚಾಲಿತ ಸ್ಪರ್ಧಾರ್ಥಿಗಳ ನೋಂದಣಿ, ಇವೆಂಟ್ ಫಿಕ್ಸ್ಚರ್, ಅಂಕಪಟ್ಟಿ ಹಾಗೂ ಪ್ರಮಾಣಪತ್ರ ನಿರ್ವಹಣಾ ತಂತ್ರಾಂಶ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
